@@ -1,0 +1,51 @@
+Summary
+Motivated and self-driven programmer with a strong foundation in Python, Java, and web technologies (HTML, CSS,
+JavaScript), and a growing expertise in Artificial Intelligence and Machine Learning. Familiar with core concepts of Deep
+Learning, model pretraining and fine-tuning, and the use of modern frameworks like LangChain for building AI-powered
+applications. Experienced in developing and evaluating machine learning models using Python libraries like Scikit-learn and
+TensorFlow. Adept in data preprocessing, algorithm implementation, and real-world problem-solving. Actively exploring
+Generative AI applications and seeking an entry-level AI/ML position to apply and grow my skills within an innovative team.
+Technical Skills
+Programming Languages: Python, Java
+Web Technologies: HTML, CSS, JavaScript
+Database: SQL, MySQL
+Tools & Libraries: Git, VS Code, Eclipse, LangChain
+AI/ML Concepts: Supervised Learning, Deep Learning, Pretraining & Fine-tuning, Transformers
+General Concepts: Data Structures, OOP, DBMS,Computer Networks
+Education
+Samrat ashok technological institute , Vidisha | Vidisha, Madhya Pradesh
+Bachelor of technology in Electronics and communication | 05/2023
+CGPA - 8.34
+Govt. Subhash Excellence School | Bhopal, Madhya Pradesh
+12th | 05/2019
+Percentage - 86%
+Govt. Subhash Excellence School | Bhopal, Madhya Pradesh
+10th | 05/2017
+Percentage - 81%
+Projects
+Electronic Voting Machine using a Biometric Identification
+Led the development of an IoT-based electronic voting machine over a 6-month period, integrating biometric fingerprint
+verification to enhance security and prevent voter fraud.
+Implemented robust security protocols and encryption methods to safeguard voter information and ensure data
+integrity.
+Utilized technologies such as Arduino, Raspberry Pi, and various biometric sensors to build and test the voting system.
+Conducted extensive testing and validation, resulting in a 95% accuracy rate in fingerprint recognition and a 40%
+reduction in processing time compared to traditional methods.
+Alcohol Detection System for Vehicles
+Led the development of an alcohol detection system leveraging Arduino UNO and MQ3 Alcohol sensor over a 6-month
+period.
+Engineered the system to accurately detect driver intoxication levels, enhancing road safety.
+Integrated sensor data processing and decision-making algorithms to ensure precise detection.
+Utilized C++ and Arduino IDE for system programming, resulting in a robust and reliable solution.
+Conducted extensive testing and calibration to minimize false positives and ensure system accuracy.
+Certificates and Training
+EXPOSYS data labs workshop
+Satyam Prajapati
+8959015602 | satyamprajapati0406@gmail.com | Bhopal, Madhya Pradesh
+As the project lead for 'Encryption and Decryption between Users in Morse Code,' I was responsible for designing
+and overseeing the development of a secure communication system that leverages Morse code and optical transmission.
+The primary objective was to enable users to exchange encrypted messages using Morse code, transmitted via an LED and
+received through a light-dependent resistor (LDR), ensuring both security and reliability.
+BSNL industrial visit for Telecommunications
+During the BSNL industrial visit, I witnessed the practical implementation of the latest technologies and network infrastructure
+used in the telecom industry. I got a chance to learn about various BSNL products and services, gain insights into their day to￾day operations and obtain hands-on learning experience
