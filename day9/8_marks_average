@@ -1,0 +1,23 @@
+from flask import Flask,render_template,request,redirect,url_for
+
+
+app = Flask(__name__)
+
+@app.route('/')
+def welcome():
+    return render_template('index.html')
+
+
+@app.route('/average', methods = ['POST','GET'])
+def average():
+    if request.method == 'POST':
+        name = (request.form['name'])
+        num1 = int(request.form['physics'])
+        num2 = int(request.form['chemistry'])
+        num3 = int(request.form['maths'])
+
+        avg = (num1 + num2 + num3)/3
+        return render_template('average.html', name = name, avg = round(avg,2))
+
+if __name__ == '__main__':
+    app.run(host='http://192.121.89.141/')
